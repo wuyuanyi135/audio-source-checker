@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">Audio Source Checker</string>
+    <string name="refresh_button_text">Refresh</string>
+    <string name="test_page_button">Test</string>
+</resources>
